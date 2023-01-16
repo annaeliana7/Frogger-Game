@@ -56,7 +56,7 @@ This repository features a JavaScript implementation of the classic game Tetris.
 
 ## Project Demo Image
 <br>
-<img align="center" src="project_demo.png" alt="logo" width="100%"  height="auto" />
+<img align="center" src="project_demo.png" alt="Project Demo Img" width="100%"  height="auto" />
 
   <br/>
 
