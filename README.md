@@ -39,9 +39,11 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 JavaScript Game<a name="about-project"></a>
+# 📖 JavaScript Game Tetris<a name="about-project"></a>
 
-**JavaScript Game** is a project ...complete sentence
+**JavaScript Game Tetris:** 
+<br>
+This repository features a JavaScript implementation of the classic game Tetris. Built using HTML5, CSS, and JavaScript, it is both enjoyable and simple to use. The included source code can be used as a learning tool to understand game development using HTML5, CSS, and JavaScript. Have fun!
 
 <br>
 
@@ -50,9 +52,6 @@
     HTML
     CSS
     Javascript
-    Linters
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Project Demo Image
 <br>
@@ -62,7 +61,38 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-[JavaScript Game](https://annaeliana7.github.io/JavaScript-Game/)
+[JavaScript Game Tetris](https://annaeliana7.github.io/JavaScript-Game-Tetris/)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## Default Controls:
+
+Controls are configurable
+
+- **Rotate Left:** Z
+- **Rotate Right:** X
+- **Rotate 180:** Shift
+- **Hold:** C
+- **Hard Drop:** Space
+- **Shift Left:** Left Arrow
+- **Shift Right:** Right Arrow
+- **Restart:** R
+
+## Mechanics and Features
+
+- Tetris Guideline compliant
+  - Random generator, first bag never spawns Z, S, or O piece first.
+  - SRS
+  - Hold
+  - Piece preview
+  - Ghost piece
+- Multiple block skins
+- Stack outline option
+- Configurable gravity
+- 60 FPS
+- DAS and DAS delay settings
+- Adaptable game size
+- Last game replay
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -73,9 +103,9 @@
 
 - Open the command prompt in the created directory.
 
-- On the terminal run this command git clone `https://github.com/annaeliana7/JavaScript-Game.git`
+- On the terminal run this command git clone `https://github.com/annaeliana7/JavaScript-Game-Tetris.git`
 
-- Go to the repository folder using command prompt cd `JavaScript-Game`
+- Go to the repository folder using command prompt cd `JavaScript-Game-Tetris`
 
 - Install the dev dependencies for linters run npm install.
 
@@ -96,9 +126,9 @@ Clone this repository to your desired folder:
 
 - Open the command prompt in the created directory.
 
-- On the terminal run this command git clone https://github.com/annaeliana7/JavaScript-Game.git
+- On the terminal run this command git clone https://github.com/annaeliana7/JavaScript-Game-Tetris.git
 
-- Go to the repository folder using command prompt cd JavaScript-Game
+- Go to the repository folder using command prompt cd JavaScript-Game-Tetris
 
 - Install the dev dependencies for linters run npm install.
 --->
@@ -130,7 +160,7 @@ Anna Petras
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/annaeliana7/JavaScript-Game/issues).
+Feel free to check the [issues page](https://github.com/annaeliana7/JavaScript-Game-Tetris/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
