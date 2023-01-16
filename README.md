@@ -62,7 +62,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-[To-Do List](https://ADD LINK.git)
+[JavaScript Game](https://annaeliana7.github.io/JavaScript-Game/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
