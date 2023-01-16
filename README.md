@@ -43,6 +43,7 @@
 
 **JavaScript Game Tetris:** 
 <br>
+
 This repository features a JavaScript implementation of the classic game Tetris. Built using HTML5, CSS, and JavaScript, it is both enjoyable and simple to use. The included source code can be used as a learning tool to understand game development using HTML5, CSS, and JavaScript. Have fun!
 
 <br>
@@ -149,9 +150,7 @@ Anna Petras
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- Implement some UX improvements: added transitions and/or animation.
-
-- Implement additional pages.
+- Implement some UX improvements
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -187,6 +186,7 @@ This project is [MIT](./LICENSE) licensed.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <br>
+
 
 <!-- Author's message -->
 
